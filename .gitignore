@@ -1,0 +1,20 @@
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.next
+node_modules
+.DS_Store
+.idea
+.vscode
+.cursorrules
+
+# PWA files
+public/sw.js
+public/workbox-*.js
+public/worker-*.js
+public/sw.js.map
+public/workbox-*.js.map
+public/worker-*.js.map
+resc
